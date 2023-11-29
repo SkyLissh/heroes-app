@@ -14,8 +14,8 @@ import { SearchPageComponent } from "./pages/search-page/search-page.component";
     LayoutPageComponent,
     ListPageComponent,
     NewPageComponent,
-    SearchPageComponent
+    SearchPageComponent,
   ],
-  imports: [CommonModule, HeroesRoutingModule]
+  imports: [CommonModule, HeroesRoutingModule],
 })
 export class HeroesModule {}
